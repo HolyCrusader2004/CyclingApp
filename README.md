@@ -17,19 +17,16 @@ A Cycling App built with Jetpack Compose in Kotlin, utilizing Google Maps API fo
 - **MVVM Architecture**
 
 ## Screenshots
-![Screenshot 2025-03-02 132203](https://github.com/user-attachments/assets/67f4725b-7af4-461c-94a6-fec926c9c140)
+![pic4](https://github.com/user-attachments/assets/3cee6c47-15ac-4951-91d5-4a6e752a731d)
 
 ### Home Screen
-![Screenshot 2025-03-02 132305](https://github.com/user-attachments/assets/c7460933-bb1a-4729-8a24-73c9113381e7)
-
+![pic3](https://github.com/user-attachments/assets/3fbbd471-83b2-4971-8cb7-0b970f8ec886)
 
 ### Statistics Screen
-![Screenshot 2025-03-02 132837](https://github.com/user-attachments/assets/f950bbfe-2f5b-4b4e-818f-40dce980a5c7)
-
+![pic1](https://github.com/user-attachments/assets/17e088e6-6cdc-4c45-9e64-eea176faaced)
 
 ### Add Cycle Run Screen
-![Screenshot 2025-03-02 132435](https://github.com/user-attachments/assets/331869cd-a51e-4b54-8187-eaba559dbc38)
-
+![pic2](https://github.com/user-attachments/assets/1813394f-5c14-4c45-8fd1-ba42a6bf65d1)
 
 ## Installation
 1. Clone the repository:
